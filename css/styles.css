@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+  }
+
+  hr {
+    height: 1px;
+   
+    border-width: 5px;
+    border-color: grey;
+    border-style: dotted none none;
+    
+    width: 10%;
+  }
